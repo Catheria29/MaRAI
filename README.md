@@ -1,4 +1,4 @@
-👩‍⚕️ MaRAI: Smart Pregnancy Planning Tool
+ MaRAI: Smart Pregnancy Planning Tool
 
 MaRAI is an AI-driven health assessment tool designed to predict maternal health risk levels. By analyzing key physiological vitals, the system categorizes patients into Low, Mid, or High Risk categories to assist in early clinical decision-making.
  Live Demo
@@ -54,7 +54,7 @@ This project bridges the gap between machine learning research and practical hea
 
     requirements.txt: Environment dependencies.
 
-🤝 Contact: baracatheriaclaire@gmail.com
+ Contact: baracatheriaclaire@gmail.com
 
 Catheria-Claire Computer Engineering Student | Antalya Bilim Üniversitesi
 
