@@ -15,7 +15,7 @@ def load_model():
 model = load_model()
 
 # 3. HEADER: The branding for your MaRAI project
-st.title("👩‍⚕️ MaRAI: Smart Pregnancy Planning Tool")
+st.title(" MaRAI: Smart Pregnancy Planning Tool")
 st.write("Predict maternal health risk levels using AI-driven analysis.")
 st.markdown("---")
 
